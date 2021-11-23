@@ -54,6 +54,8 @@ This is a [good guide](https://www.raspberrypi.org/documentation/computers/remot
 
 ### Setup
 
+Skip all the steps below - and just run "install.sh" (one of the install packages in this list does not exist, but the install script worked)
+
 The following steps setup all of the libraries needed to build Trunk Recorder.
 
 - Add the Debian Multimedia source and include non-free libraries, like **fdkaac**. Edit the sources.list file: 
